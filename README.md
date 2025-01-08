@@ -1,2 +1,2 @@
 # archety.github.io
-Archety博客
+Archety test
